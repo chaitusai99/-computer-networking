@@ -1,0 +1,56 @@
+c:\users\satyam\documents\visual studio 2015\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+c:\users\satyam\documents\visual studio 2015\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+c:\users\satyam\documents\visual studio 2015\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+c:\users\satyam\documents\visual studio 2015\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+c:\users\satyam\documents\visual studio 2015\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+c:\users\satyam\documents\visual studio 2015\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.Form1.resources
+c:\users\satyam\documents\visual studio 2015\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+c:\users\satyam\documents\visual studio 2015\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+c:\users\satyam\documents\visual studio 2015\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+D:\2016\Projects\New 2016 Projects\Satyam VS 2013 PP\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+D:\2016\Projects\New 2016 Projects\Satyam VS 2013 PP\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+D:\2016\Projects\New 2016 Projects\Satyam VS 2013 PP\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+D:\2016\Projects\New 2016 Projects\Satyam VS 2013 PP\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+D:\2016\Projects\New 2016 Projects\Satyam VS 2013 PP\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+D:\2016\Projects\New 2016 Projects\Satyam VS 2013 PP\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+D:\2016\Projects\New 2016 Projects\Satyam VS 2013 PP\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+D:\2016\Projects\New 2016 Projects\Satyam VS 2013 PP\SocketServer\SocketServer\obj\Debug\SocketServer.Form1.resources
+D:\2016\Projects\New 2016 Projects\Satyam VS 2013 PP\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+D:\Lenovo S510\2016\Projects\New 2016 Projects\Satyam VS 2013 PP\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+D:\Lenovo S510\2016\Projects\New 2016 Projects\Satyam VS 2013 PP\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+D:\Lenovo S510\2016\Projects\New 2016 Projects\Satyam VS 2013 PP\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+D:\Lenovo S510\2016\Projects\New 2016 Projects\Satyam VS 2013 PP\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+D:\Lenovo S510\2016\Projects\New 2016 Projects\Satyam VS 2013 PP\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+D:\Lenovo S510\2016\Projects\New 2016 Projects\Satyam VS 2013 PP\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+D:\Lenovo S510\2016\Projects\New 2016 Projects\Satyam VS 2013 PP\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+D:\Lenovo S510\2016\Projects\New 2016 Projects\Satyam VS 2013 PP\SocketServer\SocketServer\obj\Debug\SocketServer.Form1.resources
+D:\Lenovo S510\2016\Projects\New 2016 Projects\Satyam VS 2013 PP\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+F:\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+F:\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+F:\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+F:\SocketServer\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
+F:\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+F:\SocketServer\SocketServer\obj\Debug\SocketServer.Form1.resources
+F:\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.cache
+F:\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+F:\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+F:\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\Ramachandra\Desktop\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\Ramachandra\Desktop\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Ramachandra\Desktop\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Ramachandra\Desktop\SocketServer\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
+C:\Users\Ramachandra\Desktop\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+C:\Users\Ramachandra\Desktop\SocketServer\SocketServer\obj\Debug\SocketServer.Form1.resources
+C:\Users\Ramachandra\Desktop\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.cache
+C:\Users\Ramachandra\Desktop\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Ramachandra\Desktop\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\Ramachandra\Desktop\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+E:\network project\project 1\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+E:\network project\project 1\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+E:\network project\project 1\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+E:\network project\project 1\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+E:\network project\project 1\SocketServer\SocketServer\obj\Debug\SocketServer.Form1.resources
+E:\network project\project 1\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.cache
+E:\network project\project 1\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+E:\network project\project 1\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+E:\network project\project 1\SocketServer\SocketServer\obj\Debug\SocketServer.pdb

@@ -1,0 +1,39 @@
+C:\Users\satyam\Desktop\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\satyam\Desktop\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\satyam\Desktop\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\satyam\Desktop\SocketClient\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+C:\Users\satyam\Desktop\SocketClient\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+C:\Users\satyam\Desktop\SocketClient\SocketClient\obj\Debug\SocketClient.Form1.resources
+C:\Users\satyam\Desktop\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.Cache
+C:\Users\satyam\Desktop\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\satyam\Desktop\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+F:\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+F:\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+F:\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+F:\SocketClient\SocketClient\obj\Debug\SocketClient.csprojAssemblyReference.cache
+F:\SocketClient\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+F:\SocketClient\SocketClient\obj\Debug\SocketClient.Form1.resources
+F:\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.cache
+F:\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+F:\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+F:\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+C:\Users\Ramachandra\Desktop\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\Ramachandra\Desktop\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\Ramachandra\Desktop\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\Ramachandra\Desktop\SocketClient\SocketClient\obj\Debug\SocketClient.csprojAssemblyReference.cache
+C:\Users\Ramachandra\Desktop\SocketClient\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+C:\Users\Ramachandra\Desktop\SocketClient\SocketClient\obj\Debug\SocketClient.Form1.resources
+C:\Users\Ramachandra\Desktop\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.cache
+C:\Users\Ramachandra\Desktop\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Ramachandra\Desktop\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\Ramachandra\Desktop\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+E:\network project\project 1\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+E:\network project\project 1\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+E:\network project\project 1\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+E:\network project\project 1\SocketClient\SocketClient\obj\Debug\SocketClient.csprojAssemblyReference.cache
+E:\network project\project 1\SocketClient\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+E:\network project\project 1\SocketClient\SocketClient\obj\Debug\SocketClient.Form1.resources
+E:\network project\project 1\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.cache
+E:\network project\project 1\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+E:\network project\project 1\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+E:\network project\project 1\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
